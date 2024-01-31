@@ -298,3 +298,9 @@ body {
     font-weight: lighter;
   }
 }
+
+img[src*="img/"][src$=".jpg"] {
+    width: 675px;
+    height: 1200px;
+    object-fit: contain;
+}
