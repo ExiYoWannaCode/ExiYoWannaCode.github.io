@@ -300,7 +300,7 @@ body {
 }
 
 img[src*="img/"][src$=".jpg"] {
-    width: 675px;
-    height: 1200px;
+    width: 275px;
+    height: 525px;
     object-fit: contain;
 }
